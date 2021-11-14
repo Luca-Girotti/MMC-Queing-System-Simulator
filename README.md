@@ -1,3 +1,25 @@
+# MMC-Queing-System-Simulator
+
+MMC queing system simulation written in java, orientated to the wireless data transfering sector. This was project implemented for the course of "telecomunications network" during my second year of my bachelor of Computer Science Engineering. This was project was created and made with my partner Tommaso Garofolin (https://github.com/garooo) and myself.
+
+Feel free to check it out !
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 # queue-simulator
 
 ## Setup
