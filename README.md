@@ -1,6 +1,6 @@
 # MMC-Queing-System-Simulator
 
-M/M/C queuing system simulation written in java, orientated to the wireless data transferring sector. This project was implemented for the course of "telecomunications network" during my second year of my bachelor of Computer Science Engineering. This project was created and made with my partner Tommaso Garofolin (https://github.com/garooo) and myself.
+M/M/C queuing system simulator written in java, orientated to the wireless data transferring sector. This project was implemented for the course of "telecomunications network" during my second year of my bachelor of Computer Science Engineering. This project was created and made with my partner Tommaso Garofolin (https://github.com/garooo) and myself.
 
 Feel free to check it out !
 
